@@ -1,2 +1,2 @@
 # int-main-
-The the first repo 
+The the first repository 
